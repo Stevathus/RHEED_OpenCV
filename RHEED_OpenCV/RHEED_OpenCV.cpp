@@ -65,6 +65,8 @@ RHEED_OpenCV::RHEED_OpenCV(QWidget *parent)
 		if (cv::waitKey(5) >= 0) break;
 
 	}
+
+	// Git test
 	
 }
 
